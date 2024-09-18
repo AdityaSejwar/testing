@@ -1,0 +1,20 @@
+.icon-square>img {
+    background-color: black;
+}
+
+ 
+@media (min-width:320px) and (max-width:576px){
+
+    .px-5{
+        padding: none !important;
+    }
+}
+
+footer{
+    margin-top: 20px;
+    display:flex;
+    justify-content: center;
+}
+footer>div>p{
+    margin: 0;
+}
