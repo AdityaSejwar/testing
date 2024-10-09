@@ -1,4 +1,3 @@
-
 window.addEventListener('load', () => {
     const loadingScreen = document.getElementById('loading');
     const content = document.getElementById('content');
@@ -9,3 +8,4 @@ window.addEventListener('load', () => {
         content.style.display = 'block';
     }, 4000); 
 });
+
